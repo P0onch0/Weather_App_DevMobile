@@ -1,0 +1,10 @@
+- [x] Update shared/build.gradle.kts with KMP dependencies and serialization plugin
+- [x] Add Internet permission to AndroidManifest.xml
+- [x] Create domain Weather models in commonMain
+- [x] Create Weather data sources (API & Fake) with Ktor in commonMain
+- [x] Create MainViewModel in commonMain
+- [x] Create UI Theme (Color, Type, Theme) in commonMain
+- [x] Create SearchScreen and DetailScreen in commonMain
+- [x] Create Navigation 3 setup (Navigation.kt) in commonMain
+- [x] Update App.kt to use theme and navigation
+- [x] Verify build across targets
